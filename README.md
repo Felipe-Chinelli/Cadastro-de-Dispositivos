@@ -12,5 +12,7 @@ os dispositivos com menor importancoa
 
 ## Como usar
 1- Baixe a pasta
+
 2- Abra o main.c em um compilador que leia a lingangem C, eu recomendo o CodeBlocks
+
 3- Compile o programa
