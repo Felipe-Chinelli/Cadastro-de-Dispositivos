@@ -1,5 +1,6 @@
 # Cadastro-de-Dispositivos
 Protótipo de App em C para gerenciamento de energia em casa.
+
 Este programa é um estudo na linguagem de programação C, o app visa ajudar a gerenciar
 dispositivos smart e consumo de energia em casa, ele é só um estudo, mas eu queria colocar ele aqui
 
